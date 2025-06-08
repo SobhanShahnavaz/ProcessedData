@@ -1,0 +1,134 @@
+XGBoost Results for Diet_Label:
+Accuracy: 0.9394563426688632
+
+Classification Report:
+               precision    recall  f1-score   support
+
+           0       0.96      0.98      0.97       405
+           1       0.65      0.66      0.66        80
+           2       0.67      0.72      0.70        80
+           3       0.20      0.60      0.30         5
+           4       0.99      0.96      0.97       831
+           5       0.96      0.98      0.97       141
+           6       0.96      0.95      0.96       280
+           7       0.92      0.96      0.94       139
+           8       0.95      0.96      0.95       139
+           9       0.95      0.95      0.95       188
+          10       0.96      0.91      0.94       140
+
+    accuracy                           0.94      2428
+   macro avg       0.83      0.88      0.85      2428
+weighted avg       0.94      0.94      0.94      2428
+
+
+XGBoost Feature Importance:
+         Feature  Importance
+3         Level    0.639562
+2      Diabetes    0.141297
+1  Hypertension    0.123713
+0           Sex    0.027467
+7        Height    0.020347
+6           Age    0.018219
+9           BMI    0.017048
+8        Weight    0.012346
+4  Fitness Goal    0.000000
+5  Fitness Type    0.000000
+-------------------------------
+XGBoost Results for Diet_Label:
+Accuracy: 0.9394563426688632
+
+Classification Report:
+               precision    recall  f1-score   support
+
+           0       0.95      0.97      0.96       405
+           1       0.66      0.69      0.67        80
+           2       0.67      0.74      0.70        80
+           3       0.19      0.60      0.29         5
+           4       0.99      0.95      0.97       831
+           5       0.96      0.95      0.96       141
+           6       0.96      0.96      0.96       280
+           7       0.94      0.95      0.95       139
+           8       0.92      0.96      0.94       139
+           9       0.95      0.96      0.95       188
+          10       0.98      0.91      0.95       140
+
+    accuracy                           0.94      2428
+   macro avg       0.83      0.88      0.85      2428
+weighted avg       0.94      0.94      0.94      2428
+
+
+XGBoost Feature Importance:
+         Feature  Importance
+3         Level    0.439363
+2      Diabetes    0.236301
+1  Hypertension    0.201288
+0           Sex    0.049340
+4           Age    0.029693
+5        Height    0.026746
+6        Weight    0.017269
+---------------------------------------
+XGBoost Results for Diet_Label:
+Accuracy: 0.9320428336079077
+
+Classification Report:
+               precision    recall  f1-score   support
+
+           0       0.96      0.97      0.96       405
+           1       0.71      0.69      0.70        80
+           2       0.64      0.72      0.68        80
+           3       0.27      0.80      0.40         5
+           4       0.98      0.94      0.96       831
+           5       0.93      0.98      0.96       141
+           6       0.95      0.94      0.94       280
+           7       0.94      0.95      0.94       139
+           8       0.92      0.94      0.93       139
+           9       0.95      0.95      0.95       188
+          10       0.94      0.94      0.94       140
+
+    accuracy                           0.93      2428
+   macro avg       0.83      0.89      0.85      2428
+weighted avg       0.94      0.93      0.93      2428
+
+
+XGBoost Feature Importance:
+         Feature  Importance
+2      Diabetes    0.336700
+3         Level    0.293416
+1  Hypertension    0.248715
+0           Sex    0.055067
+4           Age    0.036358
+5        Height    0.029745
+-----------------------------------------------
+XGBoost Results for Diet_Label:
+Accuracy: 0.9406919275123559
+
+Classification Report:
+               precision    recall  f1-score   support
+
+           0       0.97      0.97      0.97       405
+           1       0.74      0.69      0.71        80
+           2       0.66      0.74      0.70        80
+           3       0.24      0.80      0.36         5
+           4       0.99      0.95      0.97       831
+           5       0.95      0.98      0.96       141
+           6       0.96      0.95      0.96       280
+           7       0.91      0.96      0.93       139
+           8       0.94      0.96      0.95       139
+           9       0.96      0.97      0.97       188
+          10       0.93      0.94      0.94       140
+
+    accuracy                           0.94      2428
+   macro avg       0.84      0.90      0.86      2428
+weighted avg       0.95      0.94      0.94      2428
+
+
+XGBoost Feature Importance:
+            Feature  Importance
+6  Exercises_Label    0.344125
+2         Diabetes    0.230018
+1     Hypertension    0.179700
+3            Level    0.155518
+0              Sex    0.041523
+4              Age    0.026819
+5           Height    0.022296
+-------------------------------------------

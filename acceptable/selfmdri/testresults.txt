@@ -1,0 +1,5 @@
+EDCN - mlr
+Carbo - mlr
+TFiber - mlr
+protein - mlr
+fat - mlr
